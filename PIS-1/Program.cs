@@ -8,7 +8,7 @@ namespace PIS_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World"); //novi komentar
+            Console.WriteLine("Hello World"); //novi komentar 
         }
-    }
+    }  
 }
