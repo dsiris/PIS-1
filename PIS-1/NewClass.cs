@@ -6,5 +6,6 @@ namespace PIS_1
 {
     class NewClass
     {
+        //komentar
     }
 }
