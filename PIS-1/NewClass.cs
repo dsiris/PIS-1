@@ -6,6 +6,6 @@ namespace PIS_1
 {
     class NewClass
     {
-        void Method() { }
+        void Method() { }   //komentar
     }
 }
